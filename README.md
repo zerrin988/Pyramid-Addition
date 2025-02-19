@@ -122,8 +122,9 @@ int main()
 - **Input Array**: Array of integers for which pyramid addition will be performed.  
 - **Output**: The final output of pyramid addition is displayed.
 
-### **Notes in Implementation**  
+### **Notes**  
 - **Variable naming**: Variables can be named to something meaningfull as this code uses quite meaningless names(as a study conduct/research).
+- Intendation has been altered in some areas.
 
 ### **Compilation & Execution**  
 ```sh
